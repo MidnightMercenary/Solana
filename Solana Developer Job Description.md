@@ -47,7 +47,7 @@ We are forward-thinking company revolutionizing decentralized trading solutions.
 ## Requirements
 
 ### Technical Skills:
-- Proficiency in **Rust** and experience with Solana’s development ecosystem, including **Anchor Framework**, **Solana SDK**, and **Solana CLI**.
+- Proficiency in **Rust** and **Node.JS** experience with Solana’s development ecosystem, including **Anchor Framework**, **Solana SDK**, and **Solana CLI**.
 - Strong understanding of **on-chain order books**, **AMMs**, and DeFi protocols.
 - Experience with Web3 integration, including wallet SDKs like **Phantom**, **Solflare**, or **Solana Wallet Adapter**.
 
